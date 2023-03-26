@@ -1,0 +1,16 @@
+C:\Users\Omistaja\source\repos\23.3_itsenainentehtava\23.3_itsenainentehtava\obj\Debug\net5.0\23.3_itsenainentehtava.csproj.AssemblyReference.cache
+C:\Users\Omistaja\source\repos\23.3_itsenainentehtava\23.3_itsenainentehtava\obj\Debug\net5.0\23.3_itsenainentehtava.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omistaja\source\repos\23.3_itsenainentehtava\23.3_itsenainentehtava\obj\Debug\net5.0\23.3_itsenainentehtava.AssemblyInfoInputs.cache
+C:\Users\Omistaja\source\repos\23.3_itsenainentehtava\23.3_itsenainentehtava\obj\Debug\net5.0\23.3_itsenainentehtava.AssemblyInfo.cs
+C:\Users\Omistaja\source\repos\23.3_itsenainentehtava\23.3_itsenainentehtava\obj\Debug\net5.0\23.3_itsenainentehtava.csproj.CoreCompileInputs.cache
+C:\Users\Omistaja\source\repos\23.3_itsenainentehtava\23.3_itsenainentehtava\bin\Debug\net5.0\23.3_itsenainentehtava.exe
+C:\Users\Omistaja\source\repos\23.3_itsenainentehtava\23.3_itsenainentehtava\bin\Debug\net5.0\23.3_itsenainentehtava.deps.json
+C:\Users\Omistaja\source\repos\23.3_itsenainentehtava\23.3_itsenainentehtava\bin\Debug\net5.0\23.3_itsenainentehtava.runtimeconfig.json
+C:\Users\Omistaja\source\repos\23.3_itsenainentehtava\23.3_itsenainentehtava\bin\Debug\net5.0\23.3_itsenainentehtava.runtimeconfig.dev.json
+C:\Users\Omistaja\source\repos\23.3_itsenainentehtava\23.3_itsenainentehtava\bin\Debug\net5.0\23.3_itsenainentehtava.dll
+C:\Users\Omistaja\source\repos\23.3_itsenainentehtava\23.3_itsenainentehtava\bin\Debug\net5.0\ref\23.3_itsenainentehtava.dll
+C:\Users\Omistaja\source\repos\23.3_itsenainentehtava\23.3_itsenainentehtava\bin\Debug\net5.0\23.3_itsenainentehtava.pdb
+C:\Users\Omistaja\source\repos\23.3_itsenainentehtava\23.3_itsenainentehtava\obj\Debug\net5.0\23.3_itsenainentehtava.dll
+C:\Users\Omistaja\source\repos\23.3_itsenainentehtava\23.3_itsenainentehtava\obj\Debug\net5.0\ref\23.3_itsenainentehtava.dll
+C:\Users\Omistaja\source\repos\23.3_itsenainentehtava\23.3_itsenainentehtava\obj\Debug\net5.0\23.3_itsenainentehtava.pdb
+C:\Users\Omistaja\source\repos\23.3_itsenainentehtava\23.3_itsenainentehtava\obj\Debug\net5.0\23.3_itsenainentehtava.genruntimeconfig.cache
